@@ -1,2 +1,3 @@
-# flappy-bird
+# Flappy Bird - Chrome
+
 Recriação do jogo Flappy Bird no navegador 
